@@ -1,10 +1,10 @@
-package org.fanava.springsecurityouath2;
+package org.fanava.springsecurityoauth2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityOuath2ApplicationTests {
+class SpringSecurityOauth2ApplicationTests {
 
 	@Test
 	void contextLoads() {
