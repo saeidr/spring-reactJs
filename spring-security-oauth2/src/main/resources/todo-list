@@ -1,0 +1,9 @@
+1-configs db for your project.  done
+2-run and use
+    project run but fills db records with session12 data hardcode configs then keep this config
+    in my project for later use
+
+after run and test your project:
+1-changing your data models to better model
+2-upgrade dependencies to upper versions
+3-
